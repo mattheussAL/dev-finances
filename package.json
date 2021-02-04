@@ -1,0 +1,8 @@
+{
+  "name": "maratona-discover",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marlonmnz/maratona-discover.git",
+  "author": "mattheussAL <matt_git@outlook.com>",
+  "license": "MIT"
+}
