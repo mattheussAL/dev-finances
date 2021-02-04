@@ -23,7 +23,7 @@
  ```sh
     Primeiro clone esse projeto: https://github.com/mattheussAL/dev-finances.git
     
-    Depois: Ative sua extenção do Live Server</a>
+    Depois: Ative sua extenção do Live Server
     
     Pronto: Agora pode usar sem problemas 
  ```
