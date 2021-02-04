@@ -23,7 +23,7 @@
  ```sh
     Primeiro clone esse projeto: https://github.com/mattheussAL/dev-finances.git
     
-    Depois: Ative sua extenção do <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a>
+    Depois: Ative sua extenção do Live Server</a>
     
     Pronto: Agora pode usar sem problemas 
  ```
